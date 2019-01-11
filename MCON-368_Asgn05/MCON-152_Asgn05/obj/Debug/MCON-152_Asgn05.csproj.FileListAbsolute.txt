@@ -1,0 +1,7 @@
+C:\Users\shlom\source\repos\MCON-152_Asgn05\MCON-152_Asgn05\bin\Debug\MCON-152_Asgn05.exe.config
+C:\Users\shlom\source\repos\MCON-152_Asgn05\MCON-152_Asgn05\bin\Debug\MCON-152_Asgn05.exe
+C:\Users\shlom\source\repos\MCON-152_Asgn05\MCON-152_Asgn05\bin\Debug\MCON-152_Asgn05.pdb
+C:\Users\shlom\source\repos\MCON-152_Asgn05\MCON-152_Asgn05\obj\Debug\MCON-152_Asgn05.csprojAssemblyReference.cache
+C:\Users\shlom\source\repos\MCON-152_Asgn05\MCON-152_Asgn05\obj\Debug\MCON-152_Asgn05.csproj.CoreCompileInputs.cache
+C:\Users\shlom\source\repos\MCON-152_Asgn05\MCON-152_Asgn05\obj\Debug\MCON-152_Asgn05.exe
+C:\Users\shlom\source\repos\MCON-152_Asgn05\MCON-152_Asgn05\obj\Debug\MCON-152_Asgn05.pdb
